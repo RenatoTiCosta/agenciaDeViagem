@@ -8,13 +8,13 @@ body {
   background-color: rgb(197, 215, 231);
 }
 a {
-  margin-right: 250px;
+  margin: 30px auto;
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
   color: #1b1b46;
 }
 li {
-  text-decoration: none;
+  list-style: none;
 }
 
 img {
